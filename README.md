@@ -56,3 +56,14 @@ Esse é o schema (model) de Tarefa, utilizado para passar para os métodos que e
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+## Configurações Locais
+Caso queira utilizar a IDE Visual Studio e ter algumas facilidades
+
+1 - Abra o terminal -> win+r 
+2 - Digitar -> cmd
+3 - Entre na pasta onde está o seu projeto digite -> cd  C:\dev\Sistema-Gerenicador-de-Tarefas
+4 - Para criar a solução do projeto aquele arquivo .sln digite -> dotnet new sln
+5 - Após ele adicionar o arquivo .sln clique com o botão direito na solução
+6 - Depois clique em Adicionar > Projeto Existente...
+7 - Escolha seu projeto com a extensão .csproject e clique em adicionar
